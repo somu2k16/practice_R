@@ -1,0 +1,6 @@
+- delete sat nd sun
+- impute holidays with average value of that day (eg. if 05-09-2016 is monday then fill the average of all mondays in the data)
+- trend of each month
+- Entire trend
+- create a dataframe contains only Date, Calls
+- create another dataset Day_number,calls (eg. Day number must 1,2,3,4,5 where 1-monday, 2-tuesday, 3- ...)
